@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-xarray-assets
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-xarray-assets/pystac_ext_xarray_assets-${{ version }}.tar.gz
-  sha256: 7d75e79a2b8702d1f572eecdf8af6b29a1013789f6de5e688a5a3c9c14254de6
+  sha256: 14268efdda23a9edbed3bb203e0372f139e099805b9699b096899dcc75e51b98
 
 build:
   number: 0
